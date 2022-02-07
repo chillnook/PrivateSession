@@ -1,0 +1,2 @@
+IMPORTANT:
+Run the install.bat and follow the installation steps. Then, launch the launch.bat after you have loaded into a GTA Online session.
